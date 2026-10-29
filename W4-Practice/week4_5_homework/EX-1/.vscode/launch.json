@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "EX-1 (Chrome)",
+      "type": "flutter",
+      "request": "launch",
+      "program": "main.dart",
+      "flutterMode": "debug",
+      "deviceId": "chrome"
+    }
+  ]
+}
